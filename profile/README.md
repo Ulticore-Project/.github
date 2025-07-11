@@ -19,6 +19,8 @@ Ulticore Project is a collective dedicated to maintaining and enhancing legacy M
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Ulticore](https://github.com/Ulticore-Project/Ulticore) | Main server software for MCPE 0.8.x | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+| [Plugins](https://github.com/Ulticore-Project/Ulticore-plugins) | Plugins that work with Ulticore | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+
 
 
 ## 🛠️ Development Philosophy
